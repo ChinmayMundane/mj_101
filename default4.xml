@@ -332,8 +332,8 @@
   </actuator> -->
 
   <actuator>
-    <motor name="forward" tendon="forward" ctrlrange="-100.0 100.0" gear="1"/>
-    <motor name="turn" tendon="turn" ctrlrange="-50.0 50.0" gear="1"/>
+    <motor name="forward" tendon="forward" ctrlrange="-100.0 100.0" gear="2"/>
+    <motor name="turn" tendon="turn" ctrlrange="-50.0 50.0" gear="2"/>
   </actuator>
 
   <sensor>
