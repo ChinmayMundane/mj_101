@@ -175,10 +175,10 @@
       <joint joint="rear_right_wheel" coef="1"/>
     </fixed>
     <fixed name="turn">
-      <joint joint="front_left_wheel" coef="-1"/>
-      <joint joint="rear_left_wheel" coef="-1"/>
-      <joint joint="front_right_wheel" coef="1"/>
-      <joint joint="rear_right_wheel" coef="1"/>
+      <joint joint="front_left_wheel" coef="-2"/>
+      <joint joint="rear_left_wheel" coef="-2"/>
+      <joint joint="front_right_wheel" coef="2"/>
+      <joint joint="rear_right_wheel" coef="2"/>
     </fixed>
   </tendon>
 
